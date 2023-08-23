@@ -9,9 +9,13 @@ This repository contains a comprehensive sales analysis using Python libraries, 
 ## Table of Contents
 
 Introduction
+
 Installation
+
 Usage
+
 Features
+
 Contributions
 
 
@@ -24,9 +28,12 @@ In the world of business, understanding sales data is crucial for making informe
 
 ## Installation
 
-Ensure you have Python installed (version X.X or higher).
-Clone this repository: git clone https://github.com/JemmyAzuka/sales-analysis.git
+Ensure you have Python installed (version 3.11 or higher).
+
+Clone this repository: git clone https://github.com/JemmyAzuka/Sales-Analysis.git
+
 Navigate to the project directory: cd sales-analysis
+
 Install the required libraries: pip install pandas
 
 
@@ -34,8 +41,11 @@ Install the required libraries: pip install pandas
 ## Usage
 
 Place your sales data files (in CSV format) into the data folder.
-Open the sales_analysis.ipynb Jupyter Notebook.
-Execute the cells sequentially to load, clean, and analyze the sales data using pandas and glob.
+
+Open the Sales_Analysis.ipynb Jupyter Notebook.
+
+Execute the cells sequentially to load, clean, and analyze the sales data using Pandas and Glob.
+
 Customize the analysis according to your requirements.
 
 
@@ -43,9 +53,13 @@ Customize the analysis according to your requirements.
 ## Features
 
 Data Loading: Utilize glob to efficiently load multiple CSV files from the data folder.
-Data Cleaning: Leverage pandas to clean, preprocess, and transform the sales data.
+
+Data Cleaning: Leverage Pandas to clean, preprocess, and transform the sales data.
+
 Key Metrics: Calculate essential sales metrics such as total revenue, average sales, and more.
+
 Visualizations: Create insightful visualizations using Matplotlib or Seaborn based on the analysis.
+
 Customization: Modify the analysis process to suit your specific business needs.
 
 
@@ -55,4 +69,8 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 
 
-Disclaimer: This repository is created for educational purposes and serves as a starting point for sales analysis using Python libraries. Always adapt and enhance the code to suit your specific use case and requirements.
+
+
+Disclaimer: This repository was created for educational purposes and serves as a starting point for sales analysis using Python libraries. Always adapt and enhance the code to suit your specific use case and requirements.
+
+
